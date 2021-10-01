@@ -12,10 +12,7 @@ def multiply(x, y):
 
 # This function divides two numbers
 def divide(x, y):
-    if(y!=0):
-        return x / y
-    else:
-        return -1
+    return x / y
 
 
 print("Select operation.")
